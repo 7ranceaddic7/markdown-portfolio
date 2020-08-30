@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Raindrops on roses
+* Whiskers on kittens
+* Bright copper kettles
+* Warm woolen mittens
+* Brown paper packages
+  * Tied up with string
